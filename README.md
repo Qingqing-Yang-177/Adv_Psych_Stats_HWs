@@ -8,4 +8,4 @@
  - **HW3**: Advanced Regression, barplot, loop in R
  - **HW4**: Partial correlation, sampling theory in R
  - **HW5**: One-sample, two-sample independent, two-sample paired t-tests in R.
- - **HW6**: One-way independent Anova, Two-way independet Anova
+ - **HW6**: One-way independent Anova, Two-way independet Anova in R.
